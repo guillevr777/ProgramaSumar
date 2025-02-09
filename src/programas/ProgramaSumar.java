@@ -17,7 +17,11 @@ public static void main(String[] args) {
     double numero2 = scanner.nextDouble();
 
     // Calcular la suma
+<<<<<<< HEAD
     double suma = numero1 + numero2/numero2 + 6;
+=======
+    double suma = numero1 + numero2;
+>>>>>>> ivan
 
     // Mostrar el resultado
     System.out.println("La suma de " + numero1 + " y " + numero2 + " es: " + suma);
